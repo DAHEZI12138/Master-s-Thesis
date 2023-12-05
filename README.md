@@ -1,5 +1,4 @@
-# My_Thesis_master_2023
-硕士学位论文《基于深度学习脑电解码的智能脑机接口系统研究》，Latex版本。
+# My_Thesis_Master_2023
 Master's thesis "Research on Intelligent Brain-Computer Interface System based on Deep Learning EEG Signal Decoding", Latex version.
 
 # 摘要：
